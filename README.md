@@ -1,6 +1,3 @@
-# Regenerating the README file and saving it for download
-
-readme_content = """
 # 🧠 Breast Cancer Diagnosis using Logistic Regression
 
 This project demonstrates a simple yet powerful binary classification using **Logistic Regression** on the Breast Cancer Wisconsin dataset.
